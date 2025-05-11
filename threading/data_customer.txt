@@ -1,0 +1,8 @@
+Order no 2:The name of the customer is :udin din din din dun and the contact number is : 90076
+Order no 3:The name of the customer is :bas and the contact number is : 33
+Order no 1:The name of the customer is :tghgh and the contact number is : 6565
+Order no 2:The name of the customer is :3443 and the contact number is : 3434
+Order no 1: Name :op Contact number : 2334
+Order no 2: Name :7565 Contact number : 44646
+Order no 1: Name :la vaca saturna saturnita Contact number : 70090
+Order no 2: Name :bombardiro crocodilo Contact number : 2345
