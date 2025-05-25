@@ -1,5 +1,0 @@
-We have Pizzass aviable in these menu:
-1001 Tandoori Chicken Pizza:: Italian pizza with Indian Tandoori flavour and extra cheese:: Rs=350
-1002 Barbecque Chicken Pizza:: Barbecue and extra cheese:: Rs=275
-1003 Veg Paneer Pizza:: Masala Panner with extra cheese: Rs=250
-1005 Chicken Sausage Pizza:: Sausage and cheeseburst:: Rs=400
